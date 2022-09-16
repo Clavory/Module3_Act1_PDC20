@@ -1,0 +1,23 @@
+    h1  {
+        background-color: yellow;
+    }  
+
+    #textcolor {
+        color: green;
+    }
+
+    .Testclass {
+        color: red;
+    }
+
+    div.seconddiv p {
+        background-color: aqua;
+    }
+
+    section:hover {
+        background-color: yellow;
+    }
+
+    hgroup:hover {
+        background-color: yellow;
+    }
